@@ -1,1 +1,4 @@
-# Cross-plat_programming-Vol.8-
+﻿# Dossanov Adil, IS-402
+**Сложные табличные вычисления в Python**
+
+![Screenshot](screenshot.png)
